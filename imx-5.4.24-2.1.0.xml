@@ -36,7 +36,7 @@
 
   <project name="poky" path="sources/poky" remote="yocto" revision="cba967414370e195d109353e51510bd829aa86c3"/>
 
-  <project remote="iwave" revision="cddfd55ad155f71b199da18ee2f4e612d0b316aa" name="iMX8QM-QP_5.4.24" path="sources/iMX8QM-QP_5.4.24">
+  <project remote="iwave" revision="9187ba65189ec199df2145a2e3e13303772f04c4" name="iMX8QM-QP_5.4.24" path="sources/iMX8QM-QP_5.4.24">
     <linkfile dest="imx-setup-release.sh" src="tools/imx-setup-release.sh"/>
     <linkfile dest="README-IMXBSP" src="README"/>
   </project>
